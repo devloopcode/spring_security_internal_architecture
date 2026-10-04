@@ -108,8 +108,3 @@ src/main/java/ma/xproce/springsecurityinternalarchitecture/
 └── web/                # REST Controllers (AuthController, ControllerGate)
 ```
 
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more details.
